@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zsShya
+- 👋 Hi, I’m @zsshya
 - 🌱 I’m currently learning C
 - 📫 How to reach me 83800690@qq.com
 
